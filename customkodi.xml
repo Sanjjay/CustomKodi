@@ -1,5 +1,3 @@
-Builds
-
 name="Windows OS Kodi 16"
 url="https://github.com/Sanjjay/CustomKodi/raw/master/kodi1.zip"
 img="https://raw.githubusercontent.com/Sanjjay/CustomKodi/master/img/windows.jpg"
@@ -48,4 +46,3 @@ img="https://raw.githubusercontent.com/Sanjjay/CustomKodi/master/img/appleios.jp
 fanart="https://raw.githubusercontent.com/Sanjjay/CustomKodi/master/img/fanart.jpg"
 description="Configure Kodi with custom addons in Just One Click!
 WARNING: This tool will overwrite your current settings!"
-
