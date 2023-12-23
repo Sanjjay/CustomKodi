@@ -1,0 +1,18 @@
+<builds>
+  <build>
+    <name>Kodi 19</name>
+	<version>1.0</version>
+	<url>https://github.com/Sanjjay/CustomKodi/raw/master/kodi19.zip</url>
+	<icon>https://raw.githubusercontent.com/Sanjjay/CustomKodi/master/img/amazon.jpg</icon>
+	<fanart>https://raw.githubusercontent.com/Sanjjay/CustomKodi/master/img/fanart.jpg</fanart>
+	<description>Kodi 19</description>
+  </build>
+  <build>
+    <name>Foreign Language Fonts</name>
+	<version>1.0</version>
+	<url>https://github.com/Sanjjay/CustomKodi/raw/master/arialuni.zip</url>
+	<icon>https://raw.githubusercontent.com/Sanjjay/CustomKodi/master/img/icon.jpg</icon>
+	<fanart>https://raw.githubusercontent.com/Sanjjay/CustomKodi/master/img/fanart.jpg</fanart>
+	<description>Foreign Language Fonts</description>
+  </build>
+</builds>
