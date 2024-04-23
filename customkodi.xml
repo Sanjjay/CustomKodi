@@ -4,7 +4,15 @@
 	<version>1.0</version>
 	<url>https://github.com/Sanjjay/CustomKodi/raw/master/kodi20.zip</url>
 	<icon>https://raw.githubusercontent.com/Sanjjay/CustomKodi/master/icon.png</icon>
-	<fanart>https://raw.githubusercontent.com/Sanjjay/CustomKodi/master/img/fanart.jpg</fanart>
+	<fanart>https://raw.githubusercontent.com/Sanjjay/CustomKodi/master/fanart.jpg</fanart>
+	<description>Kodi 20</description>
+  </build>
+  <build>
+    <name>Kodi 21</name>
+	<version>1.0</version>
+	<url>https://github.com/Sanjjay/CustomKodi/raw/master/kodi21.zip</url>
+	<icon>https://raw.githubusercontent.com/Sanjjay/CustomKodi/master/icon.png</icon>
+	<fanart>https://raw.githubusercontent.com/Sanjjay/CustomKodi/master/fanart.jpg</fanart>
 	<description>Kodi 20</description>
   </build>
 </builds>
